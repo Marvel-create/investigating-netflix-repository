@@ -1,25 +1,11 @@
-# investigating-netflix-repository
-research on movies released in the 1990's.
+# Investigating the Netflix Repository: Research on Movies Released in the 1990s
+Netflix! What started in 1997 as a DVD rental service has since grown into one of the biggest entertainment and media companies in the world.
 
-Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
+With so many movies and series available on the platform, this is the perfect opportunity to flex my exploratory data analysis skills and dive into the entertainment industry.
 
-Given the large number of movies and series available on the platform, it is a perfect opportunity to flex your exploratory data analysis skills and dive into the entertainment industry.
+I work for a production company that specializes(hope to) in nostalgic styles, and I want to research movies released in the 1990s. By exploring Netflix data, I aim to gain insights into this incredible decade of filmmaking.
 
-You work for a production company that specializes in nostalgic styles. You want to do some research on movies released in the 1990's. You'll delve into Netflix data and perform exploratory data analysis to better understand this awesome movie decade!
+I have been provided with the dataset netflix_data.csv, along with a table detailing the column names and descriptions. My goal is to perform exploratory data analysis to uncover trends, patterns, and key details about 90s movies.
 
-You have been supplied with the dataset netflix_data.csv, along with the following table detailing the column names and descriptions. Feel free to experiment further after submitting!
+Let’s dive in!
 
-# The data
-netflix_data.csv
-Column	Description
-show_id	The ID of the show
-type	Type of show
-title	Title of the show
-director	Director of the show
-cast	Cast of the show
-country	Country of origin
-date_added	Date added to Netflix
-release_year	Year of Netflix release
-duration	Duration of the show in minutes
-description	Description of the show
-genre	Show genre
